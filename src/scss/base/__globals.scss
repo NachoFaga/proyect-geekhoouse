@@ -1,0 +1,13 @@
+.app-container{
+    min-height: 100vh;
+}
+
+body{
+    background-color: #d0f2ff;
+}
+
+.flex-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
